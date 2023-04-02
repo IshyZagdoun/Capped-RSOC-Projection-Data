@@ -1,0 +1,206 @@
+CarName	enginelocation	cylindernumber	fueltype	aspiration	doornumber	carbody	drivewheel	enginetype	fuelsystem	wheelbase	carlength	carwidth	carheight	curbweight	symboling	enginesize	boreratio	stroke	compressionratio	horsepower	peakrpm	citympg	highwaympg	price
+alfa-romero giulia	front	four	gas	std	two	convertible	rwd	dohc	mpfi	88.6	168.8	64.1	48.8	2548	3	130	3.47	2.68	9	111	5000	21	27	13495
+alfa-romero stelvio	front	four	gas	std	two	convertible	rwd	dohc	mpfi	88.6	168.8	64.1	48.8	2548	3	130	3.47	2.68	9	111	5000	21	27	16500
+alfa-romero Quadrifoglio	front	six	gas	std	two	hatchback	rwd	ohcv	mpfi	94.5	171.2	65.5	52.4	2823	1	152	2.68	3.47	9	154	5000	19	26	16500
+audi 100 ls	front	four	gas	std	four	sedan	fwd	ohc	mpfi	99.8	176.6	66.2	54.3	2337	2	109	3.19	3.4	10	102	5500	24	30	13950
+audi 100ls	front	five	gas	std	four	sedan	4wd	ohc	mpfi	99.4	176.6	66.4	54.3	2824	2	136	3.19	3.4	8	115	5500	18	22	17450
+audi fox	front	five	gas	std	two	sedan	fwd	ohc	mpfi	99.8	177.3	66.3	53.1	2507	2	136	3.19	3.4	8.5	110	5500	19	25	15250
+audi 100ls	front	five	gas	std	four	sedan	fwd	ohc	mpfi	105.8	192.7	71.4	55.7	2844	1	136	3.19	3.4	8.5	110	5500	19	25	17710
+audi 5000	front	five	gas	std	four	wagon	fwd	ohc	mpfi	105.8	192.7	71.4	55.7	2954	1	136	3.19	3.4	8.5	110	5500	19	25	18920
+audi 4000	front	five	gas	turbo	four	sedan	fwd	ohc	mpfi	105.8	192.7	71.4	55.9	3086	1	131	3.13	3.4	8.3	140	5500	17	20	23875
+audi 5000s (diesel)	front	five	gas	turbo	two	hatchback	4wd	ohc	mpfi	99.5	178.2	67.9	52	3053	0	131	3.13	3.4	7	160	5500	16	22	17859.167
+bmw 320i	front	four	gas	std	two	sedan	rwd	ohc	mpfi	101.2	176.8	64.8	54.3	2395	2	108	3.5	2.8	8.8	101	5800	23	29	16430
+bmw 320i	front	four	gas	std	four	sedan	rwd	ohc	mpfi	101.2	176.8	64.8	54.3	2395	0	108	3.5	2.8	8.8	101	5800	23	29	16925
+bmw x1	front	six	gas	std	two	sedan	rwd	ohc	mpfi	101.2	176.8	64.8	54.3	2710	0	164	3.31	3.19	9	121	4250	21	28	20970
+bmw x3	front	six	gas	std	four	sedan	rwd	ohc	mpfi	101.2	176.8	64.8	54.3	2765	0	164	3.31	3.19	9	121	4250	21	28	21105
+bmw z4	front	six	gas	std	four	sedan	rwd	ohc	mpfi	103.5	189	66.9	55.7	3055	1	164	3.31	3.19	9	121	4250	20	25	24565
+bmw x4	front	six	gas	std	four	sedan	rwd	ohc	mpfi	103.5	189	66.9	55.7	3230	0	209	3.62	3.39	8	182	5400	16	22	30760
+bmw x5	front	six	gas	std	two	sedan	rwd	ohc	mpfi	103.5	193.8	67.9	53.7	3380	0	209	3.62	3.39	8	182	5400	16	22	41315
+bmw x3	front	six	gas	std	four	sedan	rwd	ohc	mpfi	110	197	70.9	56.3	3505	0	209	3.62	3.39	8	182	5400	15	20	36880
+chevrolet impala	front	three	gas	std	two	hatchback	fwd	l	2bbl	88.4	141.1	60.3	53.2	1488	2	61	2.91	3.03	9.5	48	5100	47	53	5151
+chevrolet monte carlo	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	94.5	155.9	63.6	52	1874	1	90	3.03	3.11	9.6	70	5400	38	43	6295
+chevrolet vega 2300	front	four	gas	std	four	sedan	fwd	ohc	2bbl	94.5	158.8	63.6	52	1909	0	90	3.03	3.11	9.6	70	5400	38	43	6575
+dodge rampage	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	63.8	50.8	1876	1	90	2.97	3.23	9.41	68	5500	37	41	5572
+dodge challenger se	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	63.8	50.8	1876	1	90	2.97	3.23	9.4	68	5500	31	38	6377
+dodge d200	front	four	gas	turbo	two	hatchback	fwd	ohc	mpfi	93.7	157.3	63.8	50.8	2128	1	98	3.03	3.39	7.6	102	5500	24	30	7957
+dodge monaco (sw)	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	93.7	157.3	63.8	50.6	1967	1	90	2.97	3.23	9.4	68	5500	31	38	6229
+dodge colt hardtop	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.7	157.3	63.8	50.6	1989	1	90	2.97	3.23	9.4	68	5500	31	38	6692
+dodge colt (sw)	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.7	157.3	63.8	50.6	1989	1	90	2.97	3.23	9.4	68	5500	31	38	7609
+dodge coronet custom	front	four	gas	turbo	two	sedan	fwd	ohc	mpfi	93.7	157.3	63.8	50.6	2191	1	98	3.03	3.39	7.6	102	5500	24	30	8558
+dodge dart custom	front	four	gas	std	four	wagon	fwd	ohc	2bbl	103.3	174.6	64.6	59.8	2535	-1	122	3.34	3.46	8.5	88	5000	24	30	8921
+dodge coronet custom (sw)	front	four	gas	turbo	two	hatchback	fwd	ohc	mfi	95.9	173.2	66.3	50.2	2811	3	156	3.6	3.9	7	145	5000	19	24	12964
+honda civic	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	86.6	144.6	63.9	50.8	1713	2	92	2.91	3.41	9.6	58	4800	49	54	6479
+honda civic cvcc	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	86.6	144.6	63.9	50.8	1819	2	92	2.91	3.41	9.2	76	6000	31	38	6855
+honda civic	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	93.7	150	64	52.6	1837	1	79	2.91	3.07	10.1	60	5500	38	42	5399
+honda accord cvcc	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	93.7	150	64	52.6	1940	1	92	2.91	3.41	9.2	76	6000	30	34	6529
+honda civic cvcc	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	93.7	150	64	52.6	1956	1	92	2.91	3.41	9.2	76	6000	30	34	7129
+honda accord lx	front	four	gas	std	four	sedan	fwd	ohc	1bbl	96.5	163.4	64	54.5	2010	0	92	2.91	3.41	9.2	76	6000	30	34	7295
+honda civic 1500 gl	front	four	gas	std	four	wagon	fwd	ohc	1bbl	96.5	157.1	63.9	58.3	2024	0	92	2.92	3.41	9.2	76	6000	30	34	7295
+honda accord	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	96.5	167.5	65.2	53.3	2236	0	110	3.15	3.58	9	86	5800	27	33	7895
+honda civic 1300	front	four	gas	std	two	hatchback	fwd	ohc	1bbl	96.5	167.5	65.2	53.3	2289	0	110	3.15	3.58	9	86	5800	27	33	9095
+honda prelude	front	four	gas	std	four	sedan	fwd	ohc	1bbl	96.5	175.4	65.2	54.1	2304	0	110	3.15	3.58	9	86	5800	27	33	8845
+honda accord	front	four	gas	std	four	sedan	fwd	ohc	1bbl	96.5	175.4	62.5	54.1	2372	0	110	3.15	3.58	9	86	5800	27	33	10295
+honda civic	front	four	gas	std	four	sedan	fwd	ohc	mpfi	96.5	175.4	65.2	54.1	2465	0	110	3.15	3.58	9	101	5800	24	28	12945
+honda civic (auto)	front	four	gas	std	two	sedan	fwd	ohc	2bbl	96.5	169.1	66	51	2293	1	110	3.15	3.58	9.1	100	5500	25	31	10345
+isuzu MU-X	front	four	gas	std	four	sedan	rwd	ohc	2bbl	94.3	170.7	61.8	53.5	2337	0	111	3.31	3.23	8.5	78	4800	24	29	6785
+isuzu D-Max 	front	four	gas	std	two	sedan	fwd	ohc	2bbl	94.5	155.9	63.6	52	1874	1	90	3.03	3.11	9.6	70	5400	38	43	8916.5
+isuzu D-Max V-Cross	front	four	gas	std	four	sedan	fwd	ohc	2bbl	94.5	155.9	63.6	52	1909	0	90	3.03	3.11	9.6	70	5400	38	43	8916.5
+isuzu D-Max 	front	four	gas	std	two	hatchback	rwd	ohc	spfi	96	172.6	65.2	51.4	2734	2	119	3.43	3.23	9.2	90	5000	24	29	11048
+jaguar xj	front	six	gas	std	four	sedan	rwd	dohc	mpfi	113	199.6	69.6	52.8	4066	0	258	3.63	4.17	8.1	176	4750	15	19	32250
+jaguar xf	front	six	gas	std	four	sedan	rwd	dohc	mpfi	113	199.6	69.6	52.8	4066	0	258	3.63	4.17	8.1	176	4750	15	19	35550
+jaguar xk	front	twelve	gas	std	two	sedan	rwd	ohcv	mpfi	102	191.7	70.6	47.8	3950	0	326	3.54	2.76	11.5	262	5000	13	17	36000
+maxda rx3	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.1	159.1	64.2	54.1	1890	1	91	3.03	3.15	9	68	5000	30	31	5195
+maxda glc deluxe	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.1	159.1	64.2	54.1	1900	1	91	3.03	3.15	9	68	5000	31	38	6095
+mazda rx2 coupe	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.1	159.1	64.2	54.1	1905	1	91	3.03	3.15	9	68	5000	31	38	6795
+mazda rx-4	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.1	166.8	64.2	54.1	1945	1	91	3.03	3.15	9	68	5000	31	38	6695
+mazda glc deluxe	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.1	166.8	64.2	54.1	1950	1	91	3.08	3.15	9	68	5000	31	38	7395
+mazda 626	front	two	gas	std	two	hatchback	rwd	rotor	4bbl	95.3	169	65.7	49.6	2380	3	70	3.33	3.255	9.4	101	6000	17	23	10945
+mazda glc	front	two	gas	std	two	hatchback	rwd	rotor	4bbl	95.3	169	65.7	49.6	2380	3	70	3.33	3.255	9.4	101	6000	17	23	11845
+mazda rx-7 gs	front	two	gas	std	two	hatchback	rwd	rotor	4bbl	95.3	169	65.7	49.6	2385	3	70	3.33	3.255	9.4	101	6000	17	23	13645
+mazda glc 4	front	two	gas	std	two	hatchback	rwd	rotor	mpfi	95.3	169	65.7	49.6	2500	3	80	3.33	3.255	9.4	135	6000	16	23	15645
+mazda 626	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	98.8	177.8	66.5	53.7	2385	1	122	3.39	3.39	8.6	84	4800	26	32	8845
+mazda glc custom l	front	four	gas	std	four	sedan	fwd	ohc	2bbl	98.8	177.8	66.5	55.5	2410	0	122	3.39	3.39	8.6	84	4800	26	32	8495
+mazda glc custom	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	98.8	177.8	66.5	53.7	2385	1	122	3.39	3.39	8.6	84	4800	26	32	10595
+mazda rx-4	front	four	gas	std	four	sedan	fwd	ohc	2bbl	98.8	177.8	66.5	55.5	2410	0	122	3.39	3.39	8.6	84	4800	26	32	10245
+mazda glc deluxe	front	four	diesel	std	four	sedan	fwd	ohc	idi	98.8	177.8	66.5	55.5	2443	0	122	3.39	3.39	22.7	64	4650	36	42	10795
+mazda 626	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	98.8	177.8	66.5	55.5	2425	0	122	3.39	3.39	8.6	84	4800	26	32	11245
+mazda glc	front	four	gas	std	four	sedan	rwd	ohc	mpfi	104.9	175	66.1	54.4	2670	0	140	3.76	3.16	8	120	5000	19	27	18280
+mazda rx-7 gs	front	four	diesel	std	four	sedan	rwd	ohc	idi	104.9	175	66.1	54.4	2700	0	134	3.43	3.64	22	72	4200	31	39	18344
+buick electra 225 custom	front	five	diesel	turbo	four	sedan	rwd	ohc	idi	110	190.9	70.3	56.5	3515	-1	183	3.58	3.64	21.5	123	4350	22	25	25552
+buick century luxus (sw)	front	five	diesel	turbo	four	wagon	rwd	ohc	idi	110	190.9	70.3	58.7	3750	-1	183	3.58	3.64	21.5	123	4350	22	25	28248
+buick century	front	five	diesel	turbo	two	hardtop	rwd	ohc	idi	106.7	187.5	70.3	54.9	3495	0	183	3.58	3.64	21.5	123	4350	22	25	28176
+buick skyhawk	front	five	diesel	turbo	four	sedan	rwd	ohc	idi	115.6	202.6	71.7	56.3	3770	-1	183	3.58	3.64	21.5	123	4350	22	25	31600
+buick opel isuzu deluxe	front	eight	gas	std	four	sedan	rwd	ohcv	mpfi	115.6	202.6	71.7	56.5	3740	-1	234	3.46	3.1	8.3	155	4750	16	18	34184
+buick skylark	front	eight	gas	std	two	convertible	rwd	ohcv	mpfi	96.6	180.3	70.5	50.8	3685	3	234	3.46	3.1	8.3	155	4750	16	18	35056
+buick century special	front	eight	gas	std	four	sedan	rwd	ohcv	mpfi	120.9	208.1	71.7	56.7	3900	0	308	3.8	3.35	8	184	4500	14	16	40960
+buick regal sport coupe (turbo)	front	eight	gas	std	two	hardtop	rwd	ohcv	mpfi	112	199.2	72	55.4	3715	1	304	3.8	3.35	8	184	4500	14	16	45400
+mercury cougar	front	four	gas	turbo	two	hatchback	rwd	ohc	mpfi	102.7	178.4	68	54.8	2910	1	140	3.78	3.12	8	175	5000	19	24	16503
+mitsubishi mirage	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	64.4	50.8	1918	2	92	2.97	3.23	9.4	68	5500	37	41	5389
+mitsubishi lancer	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	64.4	50.8	1944	2	92	2.97	3.23	9.4	68	5500	31	38	6189
+mitsubishi outlander	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	64.4	50.8	2004	2	92	2.97	3.23	9.4	68	5500	31	38	6669
+mitsubishi g4	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	93	157.3	63.8	50.8	2145	1	98	3.03	3.39	7.6	102	5500	24	30	7689
+mitsubishi mirage g4	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	96.3	173	65.4	49.4	2370	3	110	3.17	3.46	7.5	116	5500	23	30	9959
+mitsubishi g4	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	96.3	173	65.4	49.4	2328	3	122	3.35	3.46	8.5	88	5000	25	32	8499
+mitsubishi outlander	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	95.9	173.2	66.3	50.2	2833	3	156	3.58	3.86	7	145	5000	19	24	12629
+mitsubishi g4	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	95.9	173.2	66.3	50.2	2921	3	156	3.59	3.86	7	145	5000	19	24	14869
+mitsubishi mirage g4	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	95.9	173.2	66.3	50.2	2926	3	156	3.59	3.86	7	145	5000	19	24	14489
+mitsubishi montero	front	four	gas	std	four	sedan	fwd	ohc	2bbl	96.3	172.4	65.4	51.6	2365	1	122	3.35	3.46	8.5	88	5000	25	32	6989
+mitsubishi pajero	front	four	gas	std	four	sedan	fwd	ohc	2bbl	96.3	172.4	65.4	51.6	2405	1	122	3.35	3.46	8.5	88	5000	25	32	8189
+mitsubishi outlander	front	four	gas	turbo	four	sedan	fwd	ohc	spdi	96.3	172.4	65.4	51.6	2403	1	110	3.17	3.46	7.5	116	5500	23	30	9279
+mitsubishi mirage g4	front	four	gas	std	four	sedan	fwd	ohc	spdi	96.3	172.4	65.4	51.6	2403	-1	110	3.17	3.46	7.5	116	5500	23	30	9279
+Nissan versa	front	four	gas	std	two	sedan	fwd	ohc	2bbl	94.5	165.3	63.8	54.5	1889	1	97	3.15	3.29	9.4	69	5200	31	37	5499
+nissan gt-r	front	four	diesel	std	two	sedan	fwd	ohc	idi	94.5	165.3	63.8	54.5	2017	1	103	2.99	3.47	21.9	55	4800	45	50	7099
+nissan rogue	front	four	gas	std	two	sedan	fwd	ohc	2bbl	94.5	165.3	63.8	54.5	1918	1	97	3.15	3.29	9.4	69	5200	31	37	6649
+nissan latio	front	four	gas	std	four	sedan	fwd	ohc	2bbl	94.5	165.3	63.8	54.5	1938	1	97	3.15	3.29	9.4	69	5200	31	37	6849
+nissan titan	front	four	gas	std	four	wagon	fwd	ohc	2bbl	94.5	170.2	63.8	53.5	2024	1	97	3.15	3.29	9.4	69	5200	31	37	7349
+nissan leaf	front	four	gas	std	two	sedan	fwd	ohc	2bbl	94.5	165.3	63.8	54.5	1951	1	97	3.15	3.29	9.4	69	5200	31	37	7299
+nissan juke	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	94.5	165.6	63.8	53.3	2028	1	97	3.15	3.29	9.4	69	5200	31	37	7799
+nissan latio	front	four	gas	std	four	sedan	fwd	ohc	2bbl	94.5	165.3	63.8	54.5	1971	1	97	3.15	3.29	9.4	69	5200	31	37	7499
+nissan note	front	four	gas	std	four	wagon	fwd	ohc	2bbl	94.5	170.2	63.8	53.5	2037	1	97	3.15	3.29	9.4	69	5200	31	37	7999
+nissan clipper	front	four	gas	std	two	hardtop	fwd	ohc	2bbl	95.1	162.4	63.8	53.3	2008	2	97	3.15	3.29	9.4	69	5200	31	37	8249
+nissan rogue	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	97.2	173.4	65.2	54.7	2324	0	120	3.33	3.47	8.5	97	5200	27	34	8949
+nissan nv200	front	four	gas	std	four	sedan	fwd	ohc	2bbl	97.2	173.4	65.2	54.7	2302	0	120	3.33	3.47	8.5	97	5200	27	34	9549
+nissan dayz	front	six	gas	std	four	sedan	fwd	ohcv	mpfi	100.4	181.7	66.5	55.1	3095	0	181	3.43	3.27	9	152	5200	17	22	13499
+nissan fuga	front	six	gas	std	four	wagon	fwd	ohcv	mpfi	100.4	184.6	66.5	56.1	3296	0	181	3.43	3.27	9	152	5200	17	22	14399
+nissan otti	front	six	gas	std	four	sedan	fwd	ohcv	mpfi	100.4	184.6	66.5	55.1	3060	0	181	3.43	3.27	9	152	5200	19	25	13499
+nissan teana	front	six	gas	std	two	hatchback	rwd	ohcv	mpfi	91.3	170.7	67.9	49.7	3071	3	181	3.43	3.27	9	160	5200	19	25	17199
+nissan kicks	front	six	gas	turbo	two	hatchback	rwd	ohcv	mpfi	91.3	170.7	67.9	49.7	3139	3	181	3.43	3.27	7.8	200	5200	17	23	19699
+nissan clipper	front	six	gas	std	two	hatchback	rwd	ohcv	mpfi	99.2	178.5	67.9	49.7	3139	1	181	3.43	3.27	9	160	5200	19	25	18399
+peugeot 504	front	four	gas	std	four	sedan	rwd	l	mpfi	107.9	186.7	68.4	56.7	3020	0	120	3.46	3.19	8.4	97	5000	19	24	11900
+peugeot 304	front	four	diesel	turbo	four	sedan	rwd	l	idi	107.9	186.7	68.4	56.7	3197	0	152	3.7	3.52	21	95	4150	28	33	13200
+peugeot 504 (sw)	front	four	gas	std	four	wagon	rwd	l	mpfi	114.2	198.9	68.4	58.7	3230	0	120	3.46	3.19	8.4	97	5000	19	24	12440
+peugeot 504	front	four	diesel	turbo	four	wagon	rwd	l	idi	114.2	198.9	68.4	58.7	3430	0	152	3.7	3.52	21	95	4150	25	25	13860
+peugeot 504	front	four	gas	std	four	sedan	rwd	l	mpfi	107.9	186.7	68.4	56.7	3075	0	120	3.46	2.19	8.4	95	5000	19	24	15580
+peugeot 604sl	front	four	diesel	turbo	four	sedan	rwd	l	idi	107.9	186.7	68.4	56.7	3252	0	152	3.7	3.52	21	95	4150	28	33	16900
+peugeot 504	front	four	gas	std	four	wagon	rwd	l	mpfi	114.2	198.9	68.4	56.7	3285	0	120	3.46	2.19	8.4	95	5000	19	24	16695
+peugeot 505s turbo diesel	front	four	diesel	turbo	four	wagon	rwd	l	idi	114.2	198.9	68.4	58.7	3485	0	152	3.7	3.52	21	95	4150	25	25	17075
+peugeot 504	front	four	gas	std	four	sedan	rwd	l	mpfi	107.9	186.7	68.4	56.7	3075	0	120	3.46	3.19	8.4	97	5000	19	24	16630
+peugeot 504	front	four	diesel	turbo	four	sedan	rwd	l	idi	107.9	186.7	68.4	56.7	3252	0	152	3.7	3.52	21	95	4150	28	33	17950
+peugeot 604sl	front	four	gas	turbo	four	sedan	rwd	l	mpfi	108	186.7	68.3	56	3130	0	134	3.61	3.21	7	142	5600	18	24	18150
+plymouth fury iii	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	93.7	157.3	63.8	50.8	1918	1	90	2.97	3.23	9.4	68	5500	37	41	5572
+plymouth cricket	front	four	gas	turbo	two	hatchback	fwd	ohc	spdi	93.7	157.3	63.8	50.8	2128	1	98	3.03	3.39	7.6	102	5500	24	30	7957
+plymouth fury iii	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	93.7	157.3	63.8	50.6	1967	1	90	2.97	3.23	9.4	68	5500	31	38	6229
+plymouth satellite custom (sw)	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.7	167.3	63.8	50.8	1989	1	90	2.97	3.23	9.4	68	5500	31	38	6692
+plymouth fury gran sedan	front	four	gas	std	four	sedan	fwd	ohc	2bbl	93.7	167.3	63.8	50.8	2191	1	98	2.97	3.23	9.4	68	5500	31	38	7609
+plymouth valiant	front	four	gas	std	four	wagon	fwd	ohc	2bbl	103.3	174.6	64.6	59.8	2535	-1	122	3.35	3.46	8.5	88	5000	24	30	8921
+plymouth duster	front	four	gas	turbo	two	hatchback	rwd	ohc	spdi	95.9	173.2	66.3	50.2	2818	3	156	3.59	3.86	7	145	5000	19	24	12764
+porsche macan	front	four	gas	std	two	hatchback	rwd	ohc	mpfi	94.5	168.9	68.3	50.2	2778	3	151	3.94	3.11	9.5	143	5500	19	27	22018
+porcshce panamera	rear	six	gas	std	two	hardtop	rwd	ohcf	mpfi	89.5	168.9	65	51.6	2756	3	194	3.74	2.9	9.5	207	5900	17	25	32528
+porsche cayenne	rear	six	gas	std	two	hardtop	rwd	ohcf	mpfi	89.5	168.9	65	51.6	2756	3	194	3.74	2.9	9.5	207	5900	17	25	34028
+porsche boxter	rear	six	gas	std	two	convertible	rwd	ohcf	mpfi	89.5	168.9	65	51.6	2800	3	194	3.74	2.9	9.5	207	5900	17	25	37028
+porsche cayenne	front	eight	gas	std	two	hatchback	rwd	dohcv	mpfi	98.4	175.7	72.3	50.5	3366	1	203	3.94	3.11	10	288	5750	17	28	31400.5
+renault 12tl	front	four	gas	std	four	wagon	fwd	ohc	mpfi	96.1	181.5	66.5	55.2	2579	0	132	3.46	3.9	8.7	90	5100	23	31	9295
+renault 5 gtl	front	four	gas	std	two	hatchback	fwd	ohc	mpfi	96.1	176.8	66.6	50.5	2460	2	132	3.46	3.9	8.7	90	5100	23	31	9895
+saab 99e	front	four	gas	std	two	hatchback	fwd	ohc	mpfi	99.1	186.6	66.5	56.1	2658	3	121	3.54	3.07	9.31	110	5250	21	28	11850
+saab 99le	front	four	gas	std	four	sedan	fwd	ohc	mpfi	99.1	186.6	66.5	56.1	2695	2	121	3.54	3.07	9.3	110	5250	21	28	12170
+saab 99le	front	four	gas	std	two	hatchback	fwd	ohc	mpfi	99.1	186.6	66.5	56.1	2707	3	121	2.54	2.07	9.3	110	5250	21	28	15040
+saab 99gle	front	four	gas	std	four	sedan	fwd	ohc	mpfi	99.1	186.6	66.5	56.1	2758	2	121	3.54	3.07	9.3	110	5250	21	28	15510
+saab 99gle	front	four	gas	turbo	two	hatchback	fwd	dohc	mpfi	99.1	186.6	66.5	56.1	2808	3	121	3.54	3.07	9	160	5500	19	26	18150
+saab 99e	front	four	gas	turbo	four	sedan	fwd	dohc	mpfi	99.1	186.6	66.5	56.1	2847	2	121	3.54	3.07	9	160	5500	19	26	18620
+subaru	front	four	gas	std	two	hatchback	fwd	ohcf	2bbl	93.7	156.9	63.4	53.7	2050	2	97	3.62	2.36	9	69	4900	31	36	5118
+subaru dl	front	four	gas	std	two	hatchback	fwd	ohcf	2bbl	93.7	157.9	63.6	53.7	2120	2	108	3.62	2.64	8.7	73	4400	26	31	7053
+subaru dl	front	four	gas	std	two	hatchback	4wd	ohcf	2bbl	93.3	157.3	63.8	55.7	2240	2	108	3.62	2.64	8.7	73	4400	26	31	7603
+subaru	front	four	gas	std	four	sedan	fwd	ohcf	2bbl	97.2	172	65.4	52.5	2145	0	108	3.62	2.64	9.5	82	4800	32	37	7126
+subaru brz	front	four	gas	std	four	sedan	fwd	ohcf	2bbl	97.2	172	65.4	52.5	2190	0	108	3.62	2.64	9.5	82	4400	28	33	7775
+subaru baja	front	four	gas	std	four	sedan	fwd	ohcf	mpfi	97.2	172	65.4	52.5	2340	0	108	3.62	2.64	9	94	5200	26	32	9960
+subaru r1	front	four	gas	std	four	sedan	4wd	ohcf	2bbl	97	172	65.4	54.3	2385	0	108	3.62	2.64	9	82	4800	24	25	9233
+subaru r2	front	four	gas	turbo	four	sedan	4wd	ohcf	mpfi	97	172	65.4	54.3	2510	0	108	3.62	2.64	7.7	111	4800	24	29	11259
+subaru trezia	front	four	gas	std	four	wagon	fwd	ohcf	2bbl	97	173.5	65.4	53	2290	0	108	3.62	2.64	9	82	4800	28	32	7463
+subaru tribeca	front	four	gas	std	four	wagon	fwd	ohcf	mpfi	97	173.5	65.4	53	2455	0	108	3.62	2.64	9	94	5200	25	31	10198
+subaru dl	front	four	gas	std	four	wagon	4wd	ohcf	2bbl	96.9	173.6	65.4	54.9	2420	0	108	3.62	2.64	9	82	4800	23	29	8013
+subaru dl	front	four	gas	turbo	four	wagon	4wd	ohcf	mpfi	96.9	173.6	65.4	54.9	2650	0	108	3.62	2.64	7.7	111	4800	23	23	11694
+toyota corona mark ii	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	95.7	158.7	63.6	54.5	1985	1	92	3.05	3.03	9	62	4800	35	39	5348
+toyota corona	front	four	gas	std	two	hatchback	fwd	ohc	2bbl	95.7	158.7	63.6	54.5	2040	1	92	3.05	3.03	9	62	4800	31	38	6338
+toyota corolla 1200	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	95.7	158.7	63.6	54.5	2015	1	92	3.05	3.03	9	62	4800	31	38	6488
+toyota corona hardtop	front	four	gas	std	four	wagon	fwd	ohc	2bbl	95.7	169.7	63.6	59.1	2280	0	92	3.05	3.03	9	62	4800	31	37	6918
+toyota corolla 1600 (sw)	front	four	gas	std	four	wagon	4wd	ohc	2bbl	95.7	169.7	63.6	59.1	2290	0	92	3.05	3.03	9	62	4800	27	32	7898
+toyota carina	front	four	gas	std	four	wagon	4wd	ohc	2bbl	95.7	169.7	63.6	59.1	3110	0	92	3.05	3.03	9	62	4800	27	32	8778
+toyota mark ii	front	four	gas	std	four	sedan	fwd	ohc	2bbl	95.7	166.3	64.4	53	2081	0	98	3.19	3.03	9	70	4800	30	37	6938
+toyota corolla 1200	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	95.7	166.3	64.4	52.8	2109	0	98	3.19	3.03	9	70	4800	30	37	7198
+toyota corona	front	four	diesel	std	four	sedan	fwd	ohc	idi	95.7	166.3	64.4	53	2275	0	110	3.27	3.35	22.5	56	4500	34	36	7898
+toyota corolla	front	four	diesel	std	four	hatchback	fwd	ohc	idi	95.7	166.3	64.4	52.8	2275	0	110	3.27	3.35	22.5	56	4500	38	47	7788
+toyota corona	front	four	gas	std	four	sedan	fwd	ohc	2bbl	95.7	166.3	64.4	53	2094	0	98	3.19	3.03	9	70	4800	38	47	7738
+toyota corolla	front	four	gas	std	four	hatchback	fwd	ohc	2bbl	95.7	166.3	64.4	52.8	2122	0	98	3.19	3.03	9	70	4800	28	34	8358
+toyota mark ii	front	four	gas	std	four	sedan	fwd	ohc	2bbl	95.7	166.3	64.4	52.8	2140	0	98	3.19	3.03	9	70	4800	28	34	9258
+toyota corolla liftback	front	four	gas	std	two	sedan	rwd	ohc	2bbl	94.5	168.7	64	52.6	2169	1	98	3.19	3.03	9	70	4800	29	34	8058
+toyota corona	front	four	gas	std	two	hatchback	rwd	ohc	2bbl	94.5	168.7	64	52.6	2204	1	98	3.19	3.03	9	70	4800	29	34	8238
+toyota celica gt liftback	front	four	gas	std	two	sedan	rwd	dohc	mpfi	94.5	168.7	64	52.6	2265	1	98	3.24	3.08	9.4	112	6600	26	29	9298
+toyota corolla tercel	front	four	gas	std	two	hatchback	rwd	dohc	mpfi	94.5	168.7	64	52.6	2300	1	98	3.24	3.08	9.4	112	6600	26	29	9538
+toyota corona liftback	front	four	gas	std	two	hardtop	rwd	ohc	mpfi	98.4	176.2	65.6	52	2540	2	146	3.62	3.5	9.3	116	4800	24	30	8449
+toyota corolla	front	four	gas	std	two	hardtop	rwd	ohc	mpfi	98.4	176.2	65.6	52	2536	2	146	3.62	3.5	9.3	116	4800	24	30	9639
+toyota starlet	front	four	gas	std	two	hatchback	rwd	ohc	mpfi	98.4	176.2	65.6	52	2551	2	146	3.62	3.5	9.3	116	4800	24	30	9989
+toyota tercel	front	four	gas	std	two	hardtop	rwd	ohc	mpfi	98.4	176.2	65.6	52	2679	2	146	3.62	3.5	9.3	116	4800	24	30	11199
+toyota corolla	front	four	gas	std	two	hatchback	rwd	ohc	mpfi	98.4	176.2	65.6	52	2714	2	146	3.62	3.5	9.3	116	4800	24	30	11549
+toyota cressida	front	four	gas	std	two	convertible	rwd	ohc	mpfi	98.4	176.2	65.6	53	2975	2	146	3.62	3.5	9.3	116	4800	24	30	17669
+toyota corolla	front	four	gas	std	four	sedan	fwd	ohc	mpfi	102.4	175.6	66.5	54.9	2326	-1	122	3.31	3.54	8.7	92	4200	29	34	8948
+toyota celica gt	front	four	diesel	turbo	four	sedan	fwd	ohc	idi	102.4	175.6	66.5	54.9	2480	-1	110	3.27	3.35	22.5	73	4500	30	33	10698
+toyota corona	front	four	gas	std	four	hatchback	fwd	ohc	mpfi	102.4	175.6	66.5	53.9	2414	-1	122	3.31	3.54	8.7	92	4200	27	32	9988
+toyota corolla	front	four	gas	std	four	sedan	fwd	ohc	mpfi	102.4	175.6	66.5	54.9	2414	-1	122	3.31	3.54	8.7	92	4200	27	32	10898
+toyota mark ii	front	four	gas	std	four	hatchback	fwd	ohc	mpfi	102.4	175.6	66.5	53.9	2458	-1	122	3.31	3.54	8.7	92	4200	27	32	11248
+toyota corolla liftback	front	six	gas	std	two	hatchback	rwd	dohc	mpfi	102.9	183.5	67.7	52	2976	3	171	3.27	3.35	9.3	161	5200	20	24	16558
+toyota corona	front	six	gas	std	two	hatchback	rwd	dohc	mpfi	102.9	183.5	67.7	52	3016	3	171	3.27	3.35	9.3	161	5200	19	24	15998
+toyota starlet	front	six	gas	std	four	sedan	rwd	dohc	mpfi	104.5	187.8	66.5	54.1	3131	-1	171	3.27	3.35	9.2	156	5200	20	24	15690
+toyouta tercel	front	six	gas	std	four	wagon	rwd	dohc	mpfi	104.5	187.8	66.5	54.1	3151	-1	161	3.27	3.35	9.2	156	5200	19	24	15750
+vokswagen rabbit	front	four	diesel	std	two	sedan	fwd	ohc	idi	97.3	171.7	65.5	55.7	2261	2	97	3.01	3.4	23	52	4800	37	46	7775
+volkswagen 1131 deluxe sedan	front	four	gas	std	two	sedan	fwd	ohc	mpfi	97.3	171.7	65.5	55.7	2209	2	109	3.19	3.4	9	85	5250	27	34	7975
+volkswagen model 111	front	four	diesel	std	four	sedan	fwd	ohc	idi	97.3	171.7	65.5	55.7	2264	2	97	3.01	3.4	23	52	4800	37	46	7995
+volkswagen type 3	front	four	gas	std	four	sedan	fwd	ohc	mpfi	97.3	171.7	65.5	55.7	2212	2	109	3.19	3.4	9	85	5250	27	34	8195
+volkswagen 411 (sw)	front	four	gas	std	four	sedan	fwd	ohc	mpfi	97.3	171.7	65.5	55.7	2275	2	109	3.19	3.4	9	85	5250	27	34	8495
+volkswagen super beetle	front	four	diesel	turbo	four	sedan	fwd	ohc	idi	97.3	171.7	65.5	55.7	2319	2	97	3.01	3.4	23	68	4500	37	42	9495
+volkswagen dasher	front	four	gas	std	four	sedan	fwd	ohc	mpfi	97.3	171.7	65.5	55.7	2300	2	109	3.19	3.4	10	100	5500	26	32	9995
+vw dasher	front	four	gas	std	two	convertible	fwd	ohc	mpfi	94.5	159.3	64.2	55.6	2254	3	109	3.19	3.4	8.5	90	5500	24	29	11595
+vw rabbit	front	four	gas	std	two	hatchback	fwd	ohc	mpfi	94.5	165.7	64	51.4	2221	3	109	3.19	3.4	8.5	90	5500	24	29	9980
+volkswagen rabbit	front	five	gas	std	four	sedan	fwd	ohc	mpfi	100.4	180.2	66.9	55.1	2661	0	136	3.19	3.4	8.5	110	5500	19	24	13295
+volkswagen rabbit custom	front	four	diesel	turbo	four	sedan	fwd	ohc	idi	100.4	180.2	66.9	55.1	2579	0	97	3.01	3.4	23	68	4500	33	38	13845
+volkswagen dasher	front	four	gas	std	four	wagon	fwd	ohc	mpfi	100.4	183.1	66.9	55.1	2563	0	109	3.19	3.4	9	88	5500	25	31	12290
+volvo 145e (sw)	front	four	gas	std	four	sedan	rwd	ohc	mpfi	104.3	188.8	67.2	56.2	2912	-2	141	3.78	3.15	9.5	114	5400	23	28	12940
+volvo 144ea	front	four	gas	std	four	wagon	rwd	ohc	mpfi	104.3	188.8	67.2	57.5	3034	-1	141	3.78	3.15	9.5	114	5400	23	28	13415
+volvo 244dl	front	four	gas	std	four	sedan	rwd	ohc	mpfi	104.3	188.8	67.2	56.2	2935	-2	141	3.78	3.15	9.5	114	5400	24	28	15985
+volvo 245	front	four	gas	std	four	wagon	rwd	ohc	mpfi	104.3	188.8	67.2	57.5	3042	-1	141	3.78	3.15	9.5	114	5400	24	28	16515
+volvo 264gl	front	four	gas	turbo	four	sedan	rwd	ohc	mpfi	104.3	188.8	67.2	56.2	3045	-2	130	3.62	3.15	7.5	162	5100	17	22	18420
+volvo diesel	front	four	gas	turbo	four	wagon	rwd	ohc	mpfi	104.3	188.8	67.2	57.5	3157	-1	130	3.62	3.15	7.5	162	5100	17	22	18950
+volvo 145e (sw)	front	four	gas	std	four	sedan	rwd	ohc	mpfi	109.1	188.8	68.9	55.5	2952	-1	141	3.78	3.15	9.5	114	5400	23	28	16845
+volvo 144ea	front	four	gas	turbo	four	sedan	rwd	ohc	mpfi	109.1	188.8	68.8	55.5	3049	-1	141	3.78	3.15	8.7	160	5300	19	25	19045
+volvo 244dl	front	six	gas	std	four	sedan	rwd	ohcv	mpfi	109.1	188.8	68.9	55.5	3012	-1	173	3.58	2.87	8.8	134	5500	18	23	21485
+volvo 246	front	six	diesel	turbo	four	sedan	rwd	ohc	idi	109.1	188.8	68.9	55.5	3217	-1	145	3.01	3.4	23	106	4800	26	27	22470
+volvo 264gl	front	four	gas	turbo	four	sedan	rwd	ohc	mpfi	109.1	188.8	68.9	55.5	3062	-1	141	3.78	3.15	9.5	114	5400	19	25	22625
