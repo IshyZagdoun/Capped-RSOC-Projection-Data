@@ -1,10 +1,10 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.1.0
+title: "Capped-RSOC-Projection-Data"
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
+  - family-names: Goldbereg, Zagdoun
+    given-names: Noam, Ishy
+    orcid: https://github.com/IshyZagdoun/Capped-RSOC-Projection-Data
 title: "My Research Software"
-version: 2.0.4
+version: 1.1.0
 doi: 10.5281/zenodo.1234
 date-released: 2021-08-11
