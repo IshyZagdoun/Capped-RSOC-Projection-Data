@@ -1,10 +1,20 @@
 cff-version: 1.1.0
+<<<<<<< HEAD
 title: "Capped-RSOC-Projection-Data"
+=======
+>>>>>>> 444c6d24fe094d71dc6b10cf171344fb19f387cf
 authors:
   - family-names: Goldbereg, Zagdoun
     given-names: Noam, Ishy
     orcid: https://github.com/IshyZagdoun/Capped-RSOC-Projection-Data
+<<<<<<< HEAD
 title: "My Research Software"
 version: 1.1.0
 doi: 10.5281/zenodo.1234
 date-released: 2021-08-11
+=======
+title: "Capped-RSOC-Projection-Data"
+version: 1.1.0
+doi: https://github.com/IshyZagdoun/Capped-RSOC-Projection-Data
+date-released: 2023-04-03
+>>>>>>> 444c6d24fe094d71dc6b10cf171344fb19f387cf
