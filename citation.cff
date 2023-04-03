@@ -1,6 +1,7 @@
 cff-version: 1.1.0
 authors:
-  - family-names: Goldberg Noam, Ishy Zagdoun
+  - family-names: Goldbereg, Zagdoun
+    given-names: Noam, Ishy
     orcid: https://github.com/IshyZagdoun/Capped-RSOC-Projection-Data
 title: "Capped-RSOC-Projection-Data"
 version: 1.1.0
